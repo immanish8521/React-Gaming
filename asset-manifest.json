@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/React-Gaming/static/css/main.c5170a4b.chunk.css",
+    "main.js": "/React-Gaming/static/js/main.70a0c53d.chunk.js",
+    "main.js.map": "/React-Gaming/static/js/main.70a0c53d.chunk.js.map",
+    "runtime-main.js": "/React-Gaming/static/js/runtime-main.c021d383.js",
+    "runtime-main.js.map": "/React-Gaming/static/js/runtime-main.c021d383.js.map",
+    "static/js/2.966bf97e.chunk.js": "/React-Gaming/static/js/2.966bf97e.chunk.js",
+    "static/js/2.966bf97e.chunk.js.map": "/React-Gaming/static/js/2.966bf97e.chunk.js.map",
+    "static/js/3.189c8fc2.chunk.js": "/React-Gaming/static/js/3.189c8fc2.chunk.js",
+    "static/js/3.189c8fc2.chunk.js.map": "/React-Gaming/static/js/3.189c8fc2.chunk.js.map",
+    "index.html": "/React-Gaming/index.html",
+    "static/css/main.c5170a4b.chunk.css.map": "/React-Gaming/static/css/main.c5170a4b.chunk.css.map",
+    "static/js/2.966bf97e.chunk.js.LICENSE.txt": "/React-Gaming/static/js/2.966bf97e.chunk.js.LICENSE.txt",
+    "static/media/assassins.311b01b7.png": "/React-Gaming/static/media/assassins.311b01b7.png",
+    "static/media/avatar.a2209cd1.png": "/React-Gaming/static/media/avatar.a2209cd1.png",
+    "static/media/sackboy.043294eb.png": "/React-Gaming/static/media/sackboy.043294eb.png",
+    "static/media/spiderman.babf394a.png": "/React-Gaming/static/media/spiderman.babf394a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c021d383.js",
+    "static/js/2.966bf97e.chunk.js",
+    "static/css/main.c5170a4b.chunk.css",
+    "static/js/main.70a0c53d.chunk.js"
+  ]
+}
